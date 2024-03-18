@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pooja rasal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja rasal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pooja-rasal-56bb9b223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja rasal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/poojarasal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="poojarasal" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@poojarasal041021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@poojarasal041021" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/poojarasal041021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@poojarasal041021" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
